@@ -11,7 +11,7 @@ This project implements a basic speaker recognition model using Keras and Tensor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SpeakerRecognition.git
+   git clone https://github.com/krish0301/SpeakerRecognition.git
    cd SpeakerRecognition
    ```
 
